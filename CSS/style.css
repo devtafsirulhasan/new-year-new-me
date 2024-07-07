@@ -205,3 +205,62 @@
     margin:38px auto;
     display: block;
 }
+/*  */
+.holidays-section{
+    width: 1340px;
+    margin:100px auto;
+}
+.holidays-picture-container{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin: 0 auto;
+    position: relative;
+    background-image: url('/images/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
+.holidays-image{
+}
+.holidays-subtitle{
+    text-align: center;
+
+}
+.holidays-subtitle h3{
+    color: rgb(7, 2, 17);
+    font-size:20px;
+    font-weight: 800;
+}
+.holidays-subtitle h1{
+    color:rgb(7, 2, 17);
+    font-size:50px;
+    font-weight: bold;
+    margin-top:20px
+    
+}
+.holidays-subtitle h1 span{
+    color:#FF0000;
+}
+.holidays-subtitle p{
+    color: rgba(7, 2, 17, 0.6);
+    font-size:18px;
+    font-weight: 600;
+    width:700px;
+    margin:30px auto;
+    display: block;
+}
+.holidays-happy-picture img{
+    width: 400px;
+    margin-left: 90px;
+    margin-bottom: 60px;
+}
+.holidays-happy-picture2 img{
+    width: 250px;
+    margin-right: 90px;
+    margin-top: -80px;
+}
+.rektool{
+    position:absolute;
+    bottom: 0;
+}
