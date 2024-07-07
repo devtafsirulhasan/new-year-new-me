@@ -167,7 +167,41 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    text-align: center;
     width: 1340px;
     margin:50px auto;
+}
+.offer-box-1, .offer-box-2, .offer-box-3{
+    width:446px;
+    
+}
+.offer-box-1 h2{
+    color:#FF0000;
+    font-size: 20px;
+    font-weight: 600;
+}
+.offer-box-1 h1{
+    color:#070211;
+    font-weight: bold;
+    font-size:40px
+}
+.offer-box-1 p{
+    color:#070211;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    width:300px;
+    display: block;
+    margin: 10px 0;
+}
+.offer-box-2{
+    width: 350px;
+    height: 350px;
+    border:20px solid #FF0000;
+    border-radius:50%;
+}
+.offer-box-2 img {
+    height: 80%;
+    width: 80%;
+    margin:38px auto;
+    display: block;
 }
